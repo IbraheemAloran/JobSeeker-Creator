@@ -70,5 +70,5 @@ class jobSeeker:
             return "This host is up"
 
 
-js = jobSeeker("192.168.1.17"); ##enter ip address here
+js = jobSeeker(""); ##enter ip address here
 js.getJobs()
